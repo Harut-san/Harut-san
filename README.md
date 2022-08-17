@@ -2,7 +2,8 @@
 - 👀 I’m interested in Manual and Automated Testing
 - 🌱 I’m currently learning to become a SQA Tester
 - 💞️ I’m looking to collaborate on anything that includes SQA
-- 📫 How to reach me: harutikv@gmail.com
+- 📫 How to reach me: harut.vardikyan@hot-shot.com
+
 
 <!---
 Harut-san/Harut-san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
