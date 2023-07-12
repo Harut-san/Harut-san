@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Harut-san a Software QA professional with experience in manual testing and a background in e-learning platforms. 
+# 👋 Hi, I’m @Harut-san
+Software QA professional with experience in manual testing and a background in e-learning platforms. 
 - Proficient in Agile and Scrum methodologies, I bring strong attention to detail and a meticulous approach to ensure high-quality software products. 
 - Currently focused on expanding my skill set to include automated testing. 
 - Certified in software QA and dedicated to continuous learning and professional growth.
-- 📫 How to reach me: harutikv@gmail.com
+- 📫 You can reach me at harutikv@gmail.com
 
 
 <!---
